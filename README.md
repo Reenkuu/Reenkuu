@@ -2,9 +2,9 @@
 💻 I’m interested in web development, learning new tech, and building useful stuff.  
 🌱 Currently learning NextJS.  
 🤝 Open to collaborating on beginner-friendly projects and anything that helps me grow.  
-📫 How to reach me: [your email] or send me a message here on GitHub.  
+📫 How to reach me: Send me a message here on GitHub.  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love clean code almost as much as I love coffee.
+⚡ Fun fact: I love coding almost as much as I love coffee.
 
 <!---
 Reenkuu/Reenkuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
