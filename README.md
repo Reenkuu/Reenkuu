@@ -1,4 +1,4 @@
-👋 Hi, I’m @Phil  
+👋 Hi, I’m Philip John Alzaga
 💻 I’m interested in web development, learning new tech, and building useful stuff.  
 🌱 Currently learning NextJS.  
 🤝 Open to collaborating on beginner-friendly projects and anything that helps me grow.  
